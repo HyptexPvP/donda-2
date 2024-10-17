@@ -1,3 +1,2 @@
 # donda-2
-ok
-no i didnt do all the features lol
+assets for https://stemplayer-tau.vercel.app/
